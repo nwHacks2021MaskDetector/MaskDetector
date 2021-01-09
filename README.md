@@ -6,7 +6,7 @@ Description: </br>
   
 Technologies used: </br>
   APIs used : Google Login, Firebase, Maps, Geolocation, Trusted Web Activity, Assistant </br>
-  Tools: React, HTML, CSS, Javascript
+  Tools: React, HTML, CSS, Javascript, Ionic 
   
   
   
