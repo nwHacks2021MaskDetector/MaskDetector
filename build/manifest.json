@@ -4,8 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "app_name": "Ayush",
-    "short_name": "ayush",
+    "app_name": "Protect21",
+    "short_name": "Protect21",
+    "name":"Protect21",
     "icons": [
         {
             "src": "/icon-192x192.png",
