@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MaskDetector/static/css/main.b791d856.chunk.css",
-    "main.js": "/MaskDetector/static/js/main.ac7fa231.chunk.js",
-    "main.js.map": "/MaskDetector/static/js/main.ac7fa231.chunk.js.map",
+    "main.js": "/MaskDetector/static/js/main.f059369f.chunk.js",
+    "main.js.map": "/MaskDetector/static/js/main.f059369f.chunk.js.map",
     "runtime-main.js": "/MaskDetector/static/js/runtime-main.501097af.js",
     "runtime-main.js.map": "/MaskDetector/static/js/runtime-main.501097af.js.map",
     "static/js/2.8a700885.chunk.js": "/MaskDetector/static/js/2.8a700885.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.501097af.js",
     "static/js/2.8a700885.chunk.js",
     "static/css/main.b791d856.chunk.css",
-    "static/js/main.ac7fa231.chunk.js"
+    "static/js/main.f059369f.chunk.js"
   ]
 }
