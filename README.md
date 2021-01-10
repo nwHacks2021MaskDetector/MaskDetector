@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/valentinesalim/image/upload/v1610307571/Protect-21_Mockup_xofs30.jpg)
+![alt text](https://res.cloudinary.com/valentinesalim/image/upload/v1610307742/Devpost_logo_copy1_teyq9n_peokyw.jpg)
 # Protect-21
 We submitted this project to [nwHacks 2021](https://devpost.com/software/protect-21).
 
