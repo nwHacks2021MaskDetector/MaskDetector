@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+  background: #343434;
+}
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: auto;
+}
+
+.wrap h1 {
+  font-weight: 700;
+  font-size: 5rem;
+  background: #2e3192;
+  background: linear-gradient(
+    270deg,
+    #2e3192,
+    #1bffff,
+    #d4145a,
+    #fbb03b,
+    #009245,
+    #fcee21,
+    #662d8c,
+    #ed1e79
+  );
+  background-size: 1600% 1600%;
+  -webkit-animation: GradientAnim 120s ease infinite;
+  animation: GradientAnim 120s ease infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@-webkit-keyframes GradientAnim {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes GradientAnim {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
